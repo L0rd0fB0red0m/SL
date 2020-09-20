@@ -1,0 +1,7 @@
+{
+  "name": "SL",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
